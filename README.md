@@ -1,6 +1,8 @@
 # DigitalMagicHighTower
 数字魔法高塔
 
+![image](https://i.imgur.com/d1mCQ5O.gif)
+
 
 #### 微信公众号
 
