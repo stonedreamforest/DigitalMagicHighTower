@@ -10,11 +10,9 @@
 </p>
 
 
-#### 
-
-![image]()
 <p align="center">
-  <b>微信公众号</b><br>
+  <b></b><br>
+  <a href="#">微信公众号</a>
   <br><br>
   <img src="https://user-images.githubusercontent.com/16742566/71776790-ed0ddb00-2fd1-11ea-86b9-e81adb1369a5.png">
 </p>
