@@ -1,6 +1,4 @@
 
-[![HitCount](http://hits.dwyl.io/stonedreamforest.svg)](http://hits.dwyl.io/stonedreamforest)
-
 
 <p align="center">
   <b>Digital Magic High Tower</b><br>
